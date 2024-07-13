@@ -8,7 +8,7 @@ from django.core.validators import MaxValueValidator, MinValueValidator
 # Create your models here.
 
 # <HINT> Create a Car Make model `class CarMake(models.Model)`:
-# - Name
+# - Names
 # - Description
 # - Any other fields you would like to include in car make model
 # - __str__ method to print a car make object
