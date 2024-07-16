@@ -25,6 +25,3 @@ The Full Stack Developer Capstone Project is a comprehensive demonstration of sk
 - **RESTful API:** Developed a RESTful API to interact with the front-end.
 - **Front-end Design:** Designed responsive user interfaces with React and Bootstrap.
 - **Deployment:** Application deployed on Heroku for live demonstration.
-
-### Project Structure
-
